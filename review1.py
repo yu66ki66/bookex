@@ -16,3 +16,5 @@ def w(y):
 
 word = w(str)
 print(word)
+
+print("hello")
